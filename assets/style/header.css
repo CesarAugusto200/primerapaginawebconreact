@@ -1,0 +1,21 @@
+
+header {
+    width: 100%;
+    height: 80px;
+    background:linear-gradient(white , red)
+    
+}
+
+header img {
+    width: 5%;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+
+header h1 {
+    position: absolute;
+    left: 60%;
+    top: -12px;
+    color: white;
+}

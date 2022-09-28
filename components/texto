@@ -1,0 +1,15 @@
+
+cons producto[
+
+{
+
+id:
+name:
+avatr:
+
+}
+]
+
+que hace la carpeta public
+lo que este dentro de la carpeta public es vulnerable a que cualquier 
+usuario pueda acceder ala carpeta
